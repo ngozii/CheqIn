@@ -71,7 +71,7 @@ Rationale: Railway and Vercel offer free tiers for MVP with seamless GitHub inte
 ---
 
 ## System Architecture Diagram
-
+<img src="CheqIn System Architecturee.drawio.png">
 
 ---
 
