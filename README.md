@@ -24,7 +24,8 @@ Businesses lose millions yearly in time theft due to:
 - Time wasted on manual attendance tracking
 
 CheqIn eliminates these problems with automated, accurate, tamper-proof attendance tracking.
-
+ 
+ 
 ---
 
 ## 👥 Who Is It For?
